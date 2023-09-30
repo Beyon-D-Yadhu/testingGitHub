@@ -1,4 +1,9 @@
 hello
 hey every one
 changes
+<<<<<<< HEAD
 forn merging
+=======
+
+line of code for image
+>>>>>>> hello-world
